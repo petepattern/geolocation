@@ -1,0 +1,15 @@
+{
+  "name": "geolocation",
+  "version": "1.0.0",
+  "description": "A geolocation api module for browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "geolocation",
+    "livevox"
+  ],
+  "author": "Pedro Patron",
+  "license": "ISC"
+}
